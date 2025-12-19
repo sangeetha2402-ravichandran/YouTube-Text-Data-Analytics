@@ -72,7 +72,6 @@ The focus is on transforming **raw, unstructured text data** into actionable ins
 ### 🔹 Extract
 - Loaded YouTube comments data from CSV files
 - Handled corrupted rows using:
-```python
 pd.read_csv(file_path, on_bad_lines='skip')
 
 
@@ -141,12 +140,15 @@ All insights can be combined into a **single dashboard** showing:
 
 ---
 
-## 📁 Project Structure
+
 
 ## 📁 Project Structure
 
+```text
 
 📦 End-to-End-YouTube-Text-Data-Analytics
+
+
 ├── 📓 youtube-data-analysis.ipynb      # Main notebook (ETL, EDA, Visualization)
 ├── 📄 README.md                        # Project documentation
 ├── 📂 data                             # Dataset directory
@@ -191,5 +193,6 @@ This project is **portfolio-ready**, beginner-friendly, and follows **real-world
 Ideal for learning **text analytics, EDA, and Python-based data analytics workflows**.
 
 Happy Learning 🚀
+
 
 
