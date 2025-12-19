@@ -36,21 +36,38 @@ The focus is on transforming **raw, unstructured text data** into actionable ins
 
 ---
 
-## 🗂 Dataset Information
+## 🗂 Dataset Details
 
+- **Dataset Name**: YouTube Comments Dataset  
 - **Source**: Public YouTube data  
-- **Type**: CSV (Text + Metadata)  
-- **Coverage**: Comments collected from **multiple YouTube videos and categories**  
-- **Scale**: Large dataset (millions of rows)
+- **File Format**: CSV (Comma-Separated Values)  
+- **Data Type**: Text + Metadata  
+- **Scope**: Comments collected from multiple YouTube videos across different categories  
+- **Size**: Large-scale dataset (hundreds of thousands to millions of records)
 
-**Key columns:**
-- `comment_text`
-- `likes`
-- `replies`
-- `video_id`
-- `category_id`
+### Key Features (Columns)
 
----
+- `comment_text` – User-generated comment text  
+- `likes` – Number of likes on each comment  
+- `replies` – Number of replies to a comment  
+- `video_id` – Unique identifier for each YouTube video  
+- `category_id` – Category associated with the video  
+
+### Nature of Data
+
+- **Unstructured text data** (comments)
+- Contains emojis, punctuation, slang, and special characters
+- Includes missing and noisy values requiring preprocessing
+
+### Usage in Project
+
+The dataset is used to:
+- Perform **sentiment analysis**
+- Generate **word clouds**
+- Conduct **emoji analysis**
+- Study **engagement patterns** (likes, dislikes, views)
+- Analyze
+
 
 ## ⚙️ Tools & Technologies
 
