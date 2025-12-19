@@ -214,6 +214,12 @@ Ideal for learning **text analytics, EDA, and Python-based data analytics workfl
 Happy Learning 🚀
 
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-purple.svg)
+![NLP](https://img.shields.io/badge/NLP-Text%20Analysis-red.svg)
+
+
 
 
 
