@@ -2,6 +2,11 @@
 
 # 📊 End-to-End YouTube Text Data Analytics
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-purple.svg)
+![NLP](https://img.shields.io/badge/NLP-Text%20Analysis-red.svg)
+
 An end-to-end **Data Analytics & Text Analysis project** using real YouTube comments data.  
 This project demonstrates the complete **data analytics lifecycle** — from ETL to EDA, visualization, and insights — using Python.
 
@@ -214,10 +219,7 @@ Ideal for learning **text analytics, EDA, and Python-based data analytics workfl
 Happy Learning 🚀
 
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
-![Pandas](https://img.shields.io/badge/Pandas-EDA-purple.svg)
-![NLP](https://img.shields.io/badge/NLP-Text%20Analysis-red.svg)
+
 
 
 
