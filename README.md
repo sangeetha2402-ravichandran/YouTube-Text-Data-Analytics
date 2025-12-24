@@ -216,6 +216,42 @@ All insights can be combined into a **single dashboard** showing:
 This project is **portfolio-ready**, beginner-friendly, and follows **real-world industry practices**.  
 Ideal for learning **text analytics, EDA, and Python-based data analytics workflows**.
 
+
+## 📊 YouTube Data Analytics – Visual Outputs
+
+### 👍 Likes Analysis
+Shows overall likes distribution across videos.
+
+![Likes Analysis](likes-analysis.png)
+
+---
+
+### 📂 Likes by Category
+Displays total likes grouped by video category.
+
+![Category Likes](category-likes.png)
+
+---
+
+### 🏆 Category with Maximum Likes
+Highlights the category receiving the highest likes.
+
+![Maximum Category Likes](category-maximumlikes.png)
+
+---
+
+### 😊 Positive Words Analysis
+Word frequency analysis of positive comments.
+
+![Positive Words](positiveword.png)
+
+---
+
+### 😠 Negative Words Analysis
+Word frequency analysis of negative comments.
+
+![Negative Words](negativeword.png)
+
 Happy Learning 🚀
 
 
